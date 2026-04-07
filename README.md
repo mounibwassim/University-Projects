@@ -26,7 +26,6 @@ For standard code projects, follow the setup instructions in the respective proj
 
 ## 👨‍💻 About Me
 
-**[Your Name / Placeholder]**
+**Mounib Wassim Meftah**
 * Passionate Computer Science Student building scalable AI & Software solutions.
 * **Languages/Tools**: Python, SQL, Git, Machine Learning frameworks, Data Visualization.
-* **Contact**: [LinkedIn Profile](#) | [Email Address](#) | [Portfolio Website](#)

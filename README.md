@@ -1,17 +1,23 @@
 # University Projects Portfolio
 
-Welcome to my **University Projects Portfolio**. This repository showcases my academic and practical coursework, highlighting my skills and experience across various domains of computer science, including Artificial Intelligence, Natural Language Processing, Data Analysis, and Software Development. 
+Welcome to my **University Projects Portfolio**. This repository highlights my coursework, research, and practical projects across various domains of computer science, including Data Science, Artificial Intelligence, and Computer Vision. 
 
-Designed for recruiters and technical leaders, this portfolio serves as a centralized hub for my technical projects, featuring both complete source code and interactive Jupyter/Google Colab notebooks.
+Designed for recruiters and technical leaders, this portfolio serves as a centralized hub for my technical skills, featuring interactive dashboards, complete source code, and Jupyter/Google Colab notebooks.
 
-## 📂 Projects
+## 📂 Projects Directory
 
-Here is an overview of the structural domains in this repository:
+### [**1. Data-Analysis**](./Data-Analysis/)
+Contains comprehensive Data Analytics Reports utilizing tools like **Power BI** to uncover interactive insights. 
+* **Highlight:** Supermarket Sales Performance Dashboard (featuring predictive analytics via Random Forest).
 
-* [**NLP-Project/**](./NLP-Project/) - Natural Language Processing models, text analysis, and sequential data processing.
-* [**Machine-Learning/**](./Machine-Learning/) - Traditional ML algorithms, predictive modeling, and deep learning architectures.
-* [**Data-Analysis/**](./Data-Analysis/) - Data cleaning, exploratory data analysis (EDA), and statistical visualization.
-* [**Other-Projects/**](./Other-Projects/) - Software engineering tasks, course assignments, and miscellaneous applications.
+### [**2. Comparative Analysis of Heart Disease Prediction Models**](./Comparative%20Analysis%20of%20Heart%20Disease%20Prediction%20Models/)
+A rigorous computational intelligence project benchmarking various machine learning models (using scikit-learn) to diagnose heart disease accurately.
+
+### [**3. Other Projects**](./Other-Projects/)
+A collection of supplementary projects focusing on Deep Learning, NLP, and Computer Vision:
+* **[Building Image Classifier with CNN](./Other-Projects/Building%20Image%20Classifier%20with%20Convolutional%20Neural%20Network/):** Custom CNN architecture built with TensorFlow/Keras for classifying complex images (CIFAR-10).
+* **[NLTK Text Analysis Pipeline](./Other-Projects/NLTK_Text_Analysis.ipynb/):** End-to-end Natural Language Processing workflow demonstrating tokenization, cleaning, and text preparation.
+* **[Automated Image Restoration](./Other-Projects/image_restoration/):** Advanced computer vision algorithms utilizing OpenCV for denoising and reconstructing corrupted imagery.
 
 ## 🚀 How to Use
 
@@ -22,10 +28,11 @@ You can interact with and explore these notebooks without needing a local setup:
 2. In the GitHub viewer, click the **"Open in Colab"** badge at the top of the README to open Jupyter notebooks directly in your browser.
 3. Once in Google Colab, you can run the code blocks sequentially and observe the outputs. 
 
-For standard code projects, follow the setup instructions in the respective project's `README.md`.
+For standard code/dashboard projects (e.g., Power BI `.pbix` files), follow the setup instructions in their respective sub-folder `README.md`.
 
 ## 👨‍💻 About Me
 
-**Mounib Wassim Meftah**
+**[Your Name / Placeholder]**
 * Passionate Computer Science Student building scalable AI & Software solutions.
-* **Languages/Tools**: Python, SQL, Git, Machine Learning frameworks, Data Visualization.
+* **Languages/Tools**: Python, SQL, Git, ML Frameworks (TensorFlow, scikit-learn), Data Visualization (Power BI).
+* **Contact**: [LinkedIn Profile](#) | [Email Address](#) | [Portfolio Website](#)

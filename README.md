@@ -35,4 +35,3 @@ For standard code/dashboard projects (e.g., Power BI `.pbix` files), follow the 
 **[Your Name / Placeholder]**
 * Passionate Computer Science Student building scalable AI & Software solutions.
 * **Languages/Tools**: Python, SQL, Git, ML Frameworks (TensorFlow, scikit-learn), Data Visualization (Power BI).
-* **Contact**: [https://www.linkedin.com/in/mounib-wassim-meftah-53ab9132b/ ](#)

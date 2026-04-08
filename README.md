@@ -6,17 +6,20 @@ Designed for recruiters and technical leaders, this portfolio serves as a centra
 
 ## 📂 Projects Directory
 
-### [**1. Data-Analysis**](./Data-Analysis/)
+### [**1. 📊 Data-Analysis**](./Data-Analysis/)
 Contains comprehensive Data Analytics Reports utilizing tools like **Power BI** to uncover interactive insights. 
 * **Highlight:** Supermarket Sales Performance Dashboard (featuring predictive analytics via Random Forest).
 
-### [**2. Comparative Analysis of Heart Disease Prediction Models**](./Comparative%20Analysis%20of%20Heart%20Disease%20Prediction%20Models/)
+### [**2. 🏥 Heart Disease Prediction Analysis**](./Comparative%20Analysis%20of%20Heart%20Disease%20Prediction%20Models/)
 A rigorous computational intelligence project benchmarking various machine learning models (using scikit-learn) to diagnose heart disease accurately.
 
-### [**3. Other Projects**](./Other-Projects/)
+### [**3. ☁️ AWS Cloud Web Project**](./AWS-Cloud-Web-Project/)
+A complete 3-tier web architecture hosted on AWS, featuring automated deployment via EC2 User Data and persistent cloud storage with MariaDB.
+
+### [**4. 📂 Other Projects**](./Other-Projects/)
 A collection of supplementary projects focusing on Deep Learning, NLP, and Computer Vision:
 * **[Building Image Classifier with CNN](./Other-Projects/Building%20Image%20Classifier%20with%20Convolutional%20Neural%20Network/):** Custom CNN architecture built with TensorFlow/Keras for classifying complex images (CIFAR-10).
-* **[NLTK Text Analysis Pipeline](./Other-Projects/NLTK_Text_Analysis.ipynb/):** End-to-end Natural Language Processing workflow demonstrating tokenization, cleaning, and text preparation.
+* **[NLTK Text Analysis Pipeline](./Other-Projects/NLTK_Text_Analysis/):** End-to-end Natural Language Processing workflow demonstrating tokenization, cleaning, and text preparation.
 * **[Automated Image Restoration](./Other-Projects/image_restoration/):** Advanced computer vision algorithms utilizing OpenCV for denoising and reconstructing corrupted imagery.
 
 ## 🚀 How to Use
@@ -35,3 +38,4 @@ For standard code/dashboard projects (e.g., Power BI `.pbix` files), follow the 
 **[Your Name / Placeholder]**
 * Passionate Computer Science Student building scalable AI & Software solutions.
 * **Languages/Tools**: Python, SQL, Git, ML Frameworks (TensorFlow, scikit-learn), Data Visualization (Power BI).
+* **Contact**: [LinkedIn Profile](#) | [Email Address](#) | [Portfolio Website](#)

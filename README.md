@@ -35,6 +35,6 @@ For standard code/dashboard projects (e.g., Power BI `.pbix` files), follow the 
 
 ## 👨‍💻 About Me
 
-**[Mounib Wassim Meftah]**
+**Mounib Wassim Meftah**
 * Passionate Computer Science Student building scalable AI & Software solutions.
 * **Languages/Tools**: Python, SQL, Git, ML Frameworks (TensorFlow, scikit-learn), Data Visualization (Power BI).

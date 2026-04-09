@@ -16,7 +16,10 @@ A rigorous computational intelligence project benchmarking various machine learn
 ### [**3. ☁️ AWS Cloud Web Project**](./AWS-Cloud-Web-Project/)
 A complete 3-tier web architecture hosted on AWS, featuring automated deployment via EC2 User Data and persistent cloud storage with MariaDB.
 
-### [**4. 📂 Other Projects**](./Other-Projects/)
+### [**4. 🚦 Smart Traffic Analytics**](./Smart-Traffic-Analytics/)
+A comprehensive machine learning suite analyzing urban mobility patterns through US Traffic Congestion and IoT-based traffic prediction models, achieving >95% accuracy.
+
+### [**5. 📂 Other Projects**](./Other-Projects/)
 A collection of supplementary projects focusing on Deep Learning, NLP, and Computer Vision:
 * **[Building Image Classifier with CNN](./Other-Projects/Building%20Image%20Classifier%20with%20Convolutional%20Neural%20Network/):** Custom CNN architecture built with TensorFlow/Keras for classifying complex images (CIFAR-10).
 * **[NLTK Text Analysis Pipeline](./Other-Projects/NLTK_Text_Analysis/):** End-to-end Natural Language Processing workflow demonstrating tokenization, cleaning, and text preparation.

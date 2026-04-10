@@ -25,6 +25,9 @@ A collection of supplementary projects focusing on Deep Learning, NLP, and Compu
 * **[NLTK Text Analysis Pipeline](./Other-Projects/NLTK_Text_Analysis/):** End-to-end Natural Language Processing workflow demonstrating tokenization, cleaning, and text preparation.
 * **[Automated Image Restoration](./Other-Projects/image_restoration/):** Advanced computer vision algorithms utilizing OpenCV for denoising and reconstructing corrupted imagery.
 
+### [**6. ♻️ Waste Classification System**](./Waste-Classification-System/)
+An automated waste management solution utilizing Computer Vision to classify garbage. This project features a comparative analysis between traditional Machine Learning (HOG+SVM) and Deep Learning (Transfer Learning with MobileNetV2/ResNet50) to achieve high-precision sorting across 12 material categories.
+
 ## 🚀 How to Use
 
 Many of the projects in this repository are implemented using **Jupyter/Colab notebooks** (`.ipynb`). 

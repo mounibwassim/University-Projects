@@ -24,6 +24,7 @@ A collection of supplementary projects focusing on Deep Learning, NLP, and Compu
 * **[Building Image Classifier with CNN](./Other-Projects/Building%20Image%20Classifier%20with%20Convolutional%20Neural%20Network/):** Custom CNN architecture built with TensorFlow/Keras for classifying complex images (CIFAR-10).
 * **[NLTK Text Analysis Pipeline](./Other-Projects/NLTK_Text_Analysis/):** End-to-end Natural Language Processing workflow demonstrating tokenization, cleaning, and text preparation.
 * **[Minimum Edit Distance & Basic Text Preprocessing](./Other-Projects/Min_Edit_Distance_Basic_Text_Preprocessing/):** Implementation of fundamental text normalization steps including tokenization, stemming, lemmatization, and minimum edit distance.
+* **[Language Modeling with N-Grams](./Other-Projects/Language_Modeling/):** Statistical language model implementation using Bigrams and Trigrams for word prediction and text generation.
 * **[Automated Image Restoration](./Other-Projects/image_restoration/):** Advanced computer vision algorithms utilizing OpenCV for denoising and reconstructing corrupted imagery.
 
 ### [**6. ♻️ Waste Classification System**](./Waste-Classification-System/)

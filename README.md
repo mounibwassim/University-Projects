@@ -27,6 +27,7 @@ A collection of supplementary projects focusing on Deep Learning, NLP, and Compu
 * **[Language Modeling with N-Grams](./Other-Projects/Language_Modeling/):** Statistical language model implementation using Bigrams and Trigrams for word prediction and text generation.
 * **[TF-IDF & Word2Vec Exploration](./Other-Projects/tfidf_and_word2vec/):** Comparative analysis of text vectorization techniques, including manual TF-IDF implementation and Word2Vec embeddings.
 * **[Automated Image Restoration](./Other-Projects/image_restoration/):** Advanced computer vision algorithms utilizing OpenCV for denoising and reconstructing corrupted imagery.
+* **[Local / On-Premise LLM Chatbot](./Other-Projects/Local_LLM_Chatbot/):** A privacy-first, fully local AI chatbot powered by Microsoft DialoGPT-medium (~345M params), deployed via a custom Gradio web interface — no cloud APIs required.
 
 ### [**6. ♻️ Waste Classification System**](./Waste-Classification-System/)
 An automated waste management solution utilizing Computer Vision to classify garbage. This project features a comparative analysis between traditional Machine Learning (HOG+SVM) and Deep Learning (Transfer Learning with MobileNetV2/ResNet50) to achieve high-precision sorting across 12 material categories.

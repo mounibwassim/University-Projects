@@ -33,6 +33,9 @@ A collection of supplementary projects focusing on Deep Learning, NLP, and Compu
 ### [**6. ♻️ Waste Classification System**](./Waste-Classification-System/)
 An automated waste management solution utilizing Computer Vision to classify garbage. This project features a comparative analysis between traditional Machine Learning (HOG+SVM) and Deep Learning (Transfer Learning with MobileNetV2/ResNet50) to achieve high-precision sorting across 12 material categories.
 
+### [**7. 🔍 VectorFind**](./VectorFind/)
+An exploratory project focused on Topological Data Analysis (TDA), utilizing computational techniques to analyze the underlying shape and structure of complex datasets.
+
 ## 🚀 How to Use
 
 Many of the projects in this repository are implemented using **Jupyter/Colab notebooks** (`.ipynb`). 
